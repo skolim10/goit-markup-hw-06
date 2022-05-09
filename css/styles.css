@@ -493,8 +493,9 @@ margin-top: 10px;
   margin-right: 12px;
 }
 .newsletter-form-email:focus {
-  color: var(--footer-grey);
+  color: var(--grey-elements);
   outline: none;
+  border-color: var(--blue-elements);
 }
 .newsletter-form-btn {
   background-color: var(--blue-elements);
